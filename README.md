@@ -4,9 +4,7 @@
 [![Build Status](https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
 [![License](https://img.shields.io/github/license/rajkumardusad/Tool-X.svg)](https://github.com/rajkumardusad/Tool-X)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Tool-X)
-
 ------------------------------------------------------------------------
-
 ### Introduction
 
 *Tool-X is a Kali Linux hacking tools installer for Termux and linux system.*
